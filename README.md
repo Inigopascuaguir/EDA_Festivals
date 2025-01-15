@@ -1,53 +1,19 @@
-# Exploratory Data Analysis (EDA) en la Industria de los Festivales y la Música
+# LA BANDA SONORA DE TU VIDA
 
-La industria de los festivales y la música es un sector dinámico y de gran impacto cultural, social y económico. Realizar un Análisis Exploratorio de Datos (EDA) en este ámbito ofrece la oportunidad de comprender mejor las tendencias, comportamientos y efectos asociados con estos eventos. Este análisis se puede estructurar considerando diversos factores como:
+### TEMA: LA CONEXIÓN ENTRE LA MÚSICA Y LAS EMOCIONES
 
-* Tipo de música: Electrónica, pop, indie, entre otros.
+INTRODUCCIÓN E HIPÓTESIS
 
-* Alcance del festival: Nacional o internacional.
+Cada género musical, cada canción, tiene la capacidad de tocar algo dentro de nosotros de una forma única y diferente. Ya sea a través de una melodía alegre, un ritmo pegadizo o una buena letra. La música siempre encuentra la manera de despertar ese algo, esas emociones, para acompañarnos en el día a día de nuestra vida.
 
-* Características sociodemográficas de los asistentes: Edad, lugar de procedencia y estatus socioeconómico.
+#### HIPÓTESIS
 
-### Ejemplos de Análisis Posibles
+#### Hipótesis Principal: ¿QUÉ EMOCIONES NOS GENERA LA MÚSICA?
 
-Por ejemplo, se podría analizar:
+¿Podríamos decir que la música rock genera un sentimiento de exaltación de la alegría o más energía/fuerza?
 
-* Cómo los festivales que atraen a audiencias internacionales tienen patrones de asistencia diferentes en comparación con aquellos de alcance nacional.
+#### Hipótesis 2: EL GÉNERO MUSICAL DE UN EVENTO INFLUYE EN LA EDAD DE LOS ASISTENTES
 
-* Cómo el tipo de música influye en la composición demográfica de los asistentes, evaluando factores como la edad, el lugar de procedencia y el nivel socioeconómico.
-
-* El impacto económico de los festivales en términos de ingresos generados por turismo, consumo en el evento, y beneficios para la economía local.
-
-##### Componentes Clave del EDA
-
-Un EDA sobre este tema podría incluir:
-
-1. Segmentación de los asistentes:
-
-* Clasificación basada en su edad, procedencia y estatus social.
-
-2. Clasificación de los festivales:
-
-* Agrupación por tipo de música y alcance geográfico.
-
-3. Análisis del impacto económico y demográfico:
-
-* Estimaciones de ingresos, empleos generados y cambios en la percepción cultural de las localidades.
-
-#### Hipótesis de Trabajo
-
-##### Hipótesis Principal:
-Los festivales internacionales de música electrónica atraen a un público más joven, con mayor diversidad geográfica, y generan un impacto económico más alto que los festivales nacionales de géneros tradicionales como el rock o la música clásica.
-
-##### Hipótesis Post-COVID:
-Los festivales de música realizados después del COVID-19 han experimentado un aumento en la preferencia por actividades al aire libre y eventos más pequeños, en comparación con los festivales masivos previos a la pandemia.
-
-##### Hipótesis sobre Diversidad de Actividades:
-Los festivales que ofrecen una mayor diversidad de actividades complementarias (gastronomía, arte, tecnología) registran un mayor gasto promedio por asistente y una mayor satisfacción general.
-
-### Objetivo del EDA
-
-El objetivo de este análisis es descubrir patrones ocultos y relaciones entre los factores mencionados, proporcionando una base sólida para la toma de decisiones estratégicas en la industria musical y del entretenimiento.
-
-Mediante este enfoque, se podría identificar áreas de oportunidad, optimizar estrategias de organización de eventos y generar insights valiosos para maximizar el impacto cultural y económico de los festivales.
-
+- ¿Podríamos decir que a un evento de música electrónica acude generalmente un público más joven? 
+- ¿Y en el resto de estilos musicales? 
+- ¿El tipo de persona que escucha rock, tendrá una de edad superior a la media?
